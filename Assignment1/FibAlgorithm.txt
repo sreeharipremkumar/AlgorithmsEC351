@@ -1,0 +1,15 @@
+STEP 1:	START
+STEP 2:	Declare n1=0,n2=1, i=1 and fib=0
+STEP 3:	If i=1 Print 0
+	If i =2 Print 1
+	Goto STEP 6
+
+STEP 4:	fib = n1+n2
+	n1=n2
+	n2=fib
+
+STEP 5:	Print fib
+STEP 6:	i = i+1
+STEP 7:	if i<=5 goto STEP 3
+STEP 8:	STOP
+
