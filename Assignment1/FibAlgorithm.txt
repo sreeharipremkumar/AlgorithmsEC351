@@ -13,3 +13,7 @@ STEP 6:	i = i+1
 STEP 7:	if i<=5 goto STEP 3
 STEP 8:	STOP
 
+
+#Assignment
+Though the Recursive approach may seem to be faster in terms of time complexity, it is only true for a smaller 'n' value.
+For Fibonacci if n = 50 , the loop method is very much faster compared to its recursive counterpart.
