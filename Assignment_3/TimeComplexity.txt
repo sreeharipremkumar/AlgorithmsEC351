@@ -1,0 +1,6 @@
+QuickSort
+Average case : O(n*log n)	Worst case: O(log n)
+ 
+
+MergeSort
+Average case : O(n*log n)	Worst case: O(n)
